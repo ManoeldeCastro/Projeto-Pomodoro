@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Temporizador estilo pomodoro" />
+    <link rel="stylesheet" href="style.css" />
+    <script src="js/index.js" type="module" defer></script>
+    <title>Focustimer</title>
+  </head>
+  <body>
+    <main>
+      <div id="timer">
+        <span id="minutes">25</span>
+        <span>:</span>
+        <span id="seconds">00</span>
+      </div>
+      <div id="controls">
+        <button class="play"><img src="./img/play.svg" alt="Play" /></button>
+        <button class="pause hide">
+          <img src="./img/pause.svg" alt="Pause" />
+        </button>
+        <button class="stop hide">
+          <img src="./img/stop.svg" alt="Stop" />
+        </button>
+        <button class="set"><img src="./img/set.svg" alt="Set" /></button>
+      </div>
+    </main>
+    <footer>
+      <button class="sound-on hide">
+        <img src="./img/sound-on.svg" alt="Sound-on" />
+      </button>
+      <button class="sound-off">
+        <img src="./img/sound-off.svg" alt="Sound-off" />
+      </button>
+    </footer>
+  </body>
+</html>
