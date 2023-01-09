@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square"/>
+
 	<img src="https://github.com/ManoeldeCastro/Projeto-Pomodoro/blob/main/img/img.png"/>
 </p>
 
@@ -18,8 +18,7 @@
 <p align="center">
 	<a href="#about">About</a> •
 	<a href="#tech-stack">Tech Stack</a> •
-	<a href="#usage">Usage</a> • 
-	<a href="#contact">Contact</a> 
+	<a href="#usage">Usage</a> 
 </p>
 
 <p align="center">
